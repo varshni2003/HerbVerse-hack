@@ -20,9 +20,7 @@ Welcome to **HerbVerse** – a futuristic platform designed to bridge the gap be
 
 ![Screenshot (495)](https://github.com/user-attachments/assets/45f3d167-a6b5-42aa-8c2e-e72270a34b80)
 
-![WhatsApp Image 2025-05-09 at 15 03 21_e0a858bf](https://github.com/user-attachments/assets/33c54bb3-704d-4375-9329-858a924fad60)
-
-![WhatsApp Image 2025-05-09 at 15 03 22_932de107](https://github.com/user-attachments/assets/3e434450-2fc9-4938-8111-91c658000b6f)
+![WhatsApp Image 2025-05-09 at 15 03 21_e0a858bf](https://github.com/user-attachments/assets/33c54bb3-704d-4375-9329-858a924fad60)![WhatsApp Image 2025-05-09 at 15 03 22_932de107](https://github.com/user-attachments/assets/3e434450-2fc9-4938-8111-91c658000b6f)
 
 ### 📁 Folder Structure
 
