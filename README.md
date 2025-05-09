@@ -58,6 +58,9 @@ npm start
 ```
 
 ---
+Demo link
+http://localhost:8082/
+Expo link: exp://192.168.244.145:8081
 
 👩‍💻 Made With Love By
 Varshini 💜
@@ -65,4 +68,3 @@ Final Year Engineering Student | UI/UX Enthusiast | Dreamer of Impactful Tech
 > “Building code that heals more than it hurts.”
 
 
-Want me to tailor this for Devpost, add badges, or link your demo/screenshots too?
